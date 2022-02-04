@@ -1,0 +1,1 @@
+C:\Users\yuchenxiao\Documents\GitHub\C-_app_launch_test\TestApp_Bug37924976\TestApp_Bug37924976.csproj;x86

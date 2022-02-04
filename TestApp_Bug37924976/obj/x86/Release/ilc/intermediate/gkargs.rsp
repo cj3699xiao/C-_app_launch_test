@@ -1,0 +1,7 @@
+﻿"D:\C#_VS_WS\TestApp_Bug37924976\TestApp_Bug37924976\obj\x86\Release\ilc\in\TestApp_Bug37924976.exe"
+/Lib:"D:\C#_VS_WS\TestApp_Bug37924976\TestApp_Bug37924976\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\x86\ilc\lib\Private"
+/WinMD:"D:\C#_VS_WS\TestApp_Bug37924976\TestApp_Bug37924976\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{\"IsOptedIn\":true,\"HostName\":\"Dev14\",\"AppInsightsInstrumentationKey\":\"f144292e-e3b2-4011-ac90-20e5c03fbce5\",\"AsimovInstrumentationKey\":\"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70\",\"AppId\":1001,\"UserId\":\"40232ab3-4996-4570-81d2-082d6c4b54ca\",\"Id\":\"94e3d0bb-337d-4927-abde-4a093e64c5a6\",\"ProcessStartTime\":637795993119425539}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.10-rel-29722-00\tools\LibraryXML"
+/RunOnlyPreDR
